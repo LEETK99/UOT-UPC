@@ -4,7 +4,7 @@
 
 Before training, you should follow the 'Start-Requirements' and 'Install' from USSPA([USSPA](https://github.com/murcherful/USSPA))
 
-For the 'Install', you should download code/util/{chamfer_distance, pointnet2_ops_lib} from USSPA([USSPA](https://github.com/murcherful/USSPA)) to Supplementary/util/
+For the 'Install', you should download code/util/{chamfer_distance, pointnet2_ops_lib} from USSPA([USSPA](https://github.com/murcherful/USSPA)) to ./util/
 
 ## Dataset ##
 
