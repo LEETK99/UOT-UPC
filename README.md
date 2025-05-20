@@ -1,4 +1,4 @@
-# Unbalanced Point Cloud Completion via Unbalanced Optimal Transport #
+# Unpaired Point Cloud Completion via Unbalanced Optimal Transport #
 
 ## Install ##
 
