@@ -1,4 +1,4 @@
-# Unpaired Point Cloud Completion via Unbalanced Optimal Transport #
+# Unpaired Point Cloud Completion via Unbalanced Optimal Transport (ICML 2025 Poster) #
 
 ## Install ##
 
@@ -42,3 +42,4 @@ python train.py --log_dor {log_dir} --TC T12_OT --class_name {'table, tv_or_moni
 ```
 python train.py --log_dir {log_dir} --TC T12 --class_name {'chair', 'table', 'trash_bin', 'tv_or_monitor', 'cabinet', 'bookshelf', 'sofa', 'lamp', 'bed', 'tub', 'all'} --tau1 100 --tau2 100 --phi1 softplus --phi2 softplus --cost_type {cd, cd_fwd, l2} --betas_g 0.95 0.999 --betas_d 0.95 0.999 --dens_coord 10.5 
 ```
+
